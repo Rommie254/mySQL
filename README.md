@@ -12,6 +12,8 @@ Briefly explain any difficulties and 1 interesting thing you noticed about your 
 
 The main challenge I encountered when importing the CSV dataset into MySQL Workbench was the limitation on the number of records that could be imported. Out of the approximately 8000 records, only 100 were successfully imported.
   
-# One interesting thing about Dataset 2: 
+# Interesting observation about Dataset 2: 
 
-Most of the movies/tv shows are based in the United States. 
+The dataset contains diverse categories of shows, including movies and TV shows, spanning multiple countries and languages. Also, most of the movies/tv shows are based in the United States. 
+
+
